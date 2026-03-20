@@ -1,5 +1,13 @@
+### Lab 2-2026
 
 [![CI/CD Pipeline](https://github.com/gomezjimena/lab22026/actions/workflows/build.yml/badge.svg)](https://github.com/gomezjimena/lab22026/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=gomezjimena_lab22026&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=gomezjimena_lab22026)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=gomezjimena_lab22026&metric=bugs)](https://sonarcloud.io/summary/new_code?id=gomezjimena_lab22026)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=gomezjimena_lab22026&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=gomezjimena_lab22026)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=gomezjimena_lab22026&metric=coverage)](https://sonarcloud.io/summary/new_code?id=gomezjimena_lab22026)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=gomezjimena_lab22026&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=gomezjimena_lab22026)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=gomezjimena_lab22026&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=gomezjimena_lab22026)
+
 Implementation of a Simple App with the next operations:
 
 * Get random nations
